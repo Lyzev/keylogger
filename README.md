@@ -1,6 +1,6 @@
 <h1 align="center">Tampermonkey Keylogger</h1>
 
-<p align="center">A simple Keylogger for Tampermonkey. (Browser Extension)</p>
+<p align="center">A simple keylogger for Tampermonkey. (Browser Extension)</p>
 
 <div align="center">
     <a href="https://discord.gg/5UmsQP4MFH"><img src="https://img.shields.io/discord/610120595765723137?logo=discord" alt="Discord"/></a>
