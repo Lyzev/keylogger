@@ -32,18 +32,18 @@ body:
     validations:
       required: true
   - type: dropdown
-      id: browser
-      attributes:
-        label: Browser
-        options:
-          - Chrome
-          - FireFox
-          - Safari
-          - Microsoft Edge
-          - Opera
-          - Other
-      validations:
-        required: true
+    id: browser
+    attributes:
+      label: Browser
+      options:
+        - Chrome
+        - FireFox
+        - Safari
+        - Microsoft Edge
+        - Opera
+        - Other
+    validations:
+      required: true
   - type: checkboxes
     id: prerequisites
     attributes:
