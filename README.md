@@ -1,9 +1,9 @@
 <h1 align="center">Tampermonkey Keylogger</h1>
 
-<p align="center">Proof-Of-Concept for a keylogger. (Tampermonkey Script / Browser Extension)</p>
+<p align="center">Proof-Of-Concept for a keylogger.</p>
 
 <div align="center">
-    <a href="https://discord.gg/Wfc3U8Dgn7"><img src="https://img.shields.io/discord/610120595765723137?logo=discord" alt="Discord"/></a>
+    <a href="https://lyzev.github.io/discord/"><img src="https://img.shields.io/discord/610120595765723137?logo=discord" alt="Discord"/></a>
     <br><br>
     <img src="https://img.shields.io/github/last-commit/Lyzev/keylogger" alt="GitHub last commit"/>
     <img src="https://img.shields.io/github/commit-activity/w/Lyzev/keylogger" alt="GitHub commit activity"/>
@@ -20,7 +20,7 @@ Please note, this repository is for educational and proof of concept purposes on
 2. Open Tampermonkey in your Browser
 3. Go to the Utilities tab
 4. Press the button `Choose File` at `Import from file`
-5. Choose the downloaded file
+5. Choose the file
 6. Click on `Install` in the tab that has opened
 7. Have fun!
 
